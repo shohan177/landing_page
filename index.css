@@ -1,0 +1,283 @@
+.section-4 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0519/6205/2766/files/Stealth_Banner.jpg?v=1666332904);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.section-4-container-text-container {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.sub-title-p {
+    font-size: 50px;
+    color: #fff;
+    font-weight: 200;
+}
+
+.title-p {
+    font-size: 70px;
+    line-height: 0;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 46px;
+}
+
+.small-p {
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 50px;
+
+}
+
+.divider {
+    height: 4px;
+    width: 200px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    margin-top: 50px
+}
+
+/* section 5 */
+.section-5 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0519/6205/2766/files/Technology_Banner.jpg?v=1666335680);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.section-5-container {
+    width: 100%;
+    height: 100%;
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+
+}
+
+.section-5-container-text-container {
+    background-color: #00ffff67;
+    text-align: end;
+    margin-right: 70px;
+}
+
+.section-5-container-text-container .title-p {
+    margin-top: 77px
+}
+
+/* section 6 */
+.section-6 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0519/6205/2766/files/Icon_Banner.jpg?v=1666371027);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.product-container {
+    display: flex;
+}
+
+.product-section-one {
+    padding-left: 100px;
+    padding-top: 200px;
+}
+
+.product-section-two {
+    width: 100%;
+    margin-left: 100px;
+    padding-top: 100px;
+}
+
+.product-image {
+    width: 300px;
+    padding-top: 100px;
+}
+
+.product-show-case {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.product-section-one .title-p {
+    margin-bottom: 78px !important;
+}
+
+/* section 7 */
+.section-7 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0519/6205/2766/files/Mission_Submission_Banner.jpg?v=1666373449);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.section-7 .text-container {
+    width: 40%;
+    padding-top: 200px;
+    padding-right: 100px;
+
+}
+
+/* section 9 */
+.section-9 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0519/6205/2766/files/SpiderMan_3.jpg?v=1666374684);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-bottom: 100px;
+    justify-content: space-between;
+    padding-top: 200px;
+
+}
+
+.section-9-one {
+    padding-top: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.section-9-two {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.section-9-three {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.band-image {
+    width: 200px;
+    margin-top: 50px;
+}
+
+.section-9-three {
+    display: flex;
+    flex-direction: column;
+}
+
+.band-image-lef {
+    width: 300px;
+}
+
+/* section 10 */
+.text-section-one {
+    height: 60vh;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.text-section-one .small-p {
+    color: black;
+}
+
+.text-section-one .title-p {
+    color: black;
+}
+
+.p-text-container {
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.p-text-container h1 {
+    font-size: 80px;
+    font-weight: 200;
+}
+
+.p-text-container h1 span {
+    font-size: 80px;
+    font-weight: 900;
+}
+
+.donet-btn {
+    text-decoration: none;
+    background-color: red;
+    color: #fff;
+    padding: 20px 40px;
+    font-size: 25px;
+}
+
+.text-section-bg {
+    background-image: url(https://cdn.shopify.com/s/files/1/0519/6205/2766/files/Icon_Banner.jpg?v=1666371027);
+    background-size: cover;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    height: 60vh;
+}
+
+.text-section-bg h1 {
+    color: #fff;
+    font-size: 80px;
+    font-weight: 200;
+}
+
+.text-section-bg h1 span {
+    color: #fff;
+    font-size: 80px;
+    font-weight: 900;
+}
+
+.text-title-container {
+    width: 100%;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.text-container-bg {
+    display: flex;
+}
+
+.text-section-one .p-text-container h1 {
+    color: black;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.section-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    background-color: black;
+}
